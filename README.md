@@ -1,0 +1,2 @@
+# SmartHome
+Projekt inteligentnego domu
