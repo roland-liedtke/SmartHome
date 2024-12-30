@@ -1,2 +1,4 @@
 # SmartHome
-Projekt inteligentnego domu
+
+## TODO:
+- Zrób spis posiadanych urządzeń
